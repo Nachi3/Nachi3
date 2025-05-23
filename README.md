@@ -64,7 +64,7 @@
 ----
 
 <p align="center">
-  ![snake gif](https://github.com/Nachi3/Nachi3/blob/output/github-snake-dark.svg)
+  ![snake gif](https://raw.githubusercontent.com/Nachi3/Nachi3/output/github-snake-dark.svg)
 </p>
 
 ----
