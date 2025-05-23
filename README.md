@@ -53,3 +53,23 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=Nachi3&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Nachi3)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Nachi3&theme=material-palenight)](https://github.com/Nachi3)
+</div>
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Nachi3/Nachi3/main/.github/workflows/snake.yml"
+    alt="example" />
+</p>
+
+----
+
+Credit: [durgeshamariya](https://github.com/durgeshsamariya)
+<br>
+Last update: 23/05/2025
