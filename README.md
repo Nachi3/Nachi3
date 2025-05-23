@@ -61,10 +61,9 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Nachi3&theme=material-palenight)](https://github.com/Nachi3)
 </div>
 
-----
 
 <p align="center">
-  ![snake gif](https://raw.githubusercontent.com/Nachi3/Nachi3/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Nachi3/Nachi3/output/github-snake-dark.svg" alt="snake gif">
 </p>
 
 ----
