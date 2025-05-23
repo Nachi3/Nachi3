@@ -64,8 +64,7 @@
 ----
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Nachi3/Nachi3/main/.github/workflows/snake.yml"
-    alt="example" />
+  ![snake gif](https://github.com/Nachi3/Nachi3/blob/output/github-snake-dark.svg)
 </p>
 
 ----
